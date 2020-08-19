@@ -11,6 +11,8 @@ Also, no more messing around in launcher options through Steam only to have thos
 I have spent WAY TOO MANY HOURS experimenting with launcher cvars, enjoy.
 
   Pretty much all of these cvar changes will be displayed in versus.
+  
+  For the dummies that keep asking, NO, these are not cheats and you cannot get VAC banned for changing these values, they are not locked cheat cvars.
 
 INSTRUCTIONS:
 
@@ -46,6 +48,8 @@ I also have left some cvars at default in the script because they might have bee
 3. My setup is inevitably different from yours. I use an Alienware ultrawide monitor at 43:18 aspect ratio, which I've calculated my FOV settings for, using this online calculator: https://casualhacks.net/Source-FOV-calculator.html
 
 My main FOV is tuned for 140 degrees of view (approximately human field of view) , which in other aspect ratios my values might be too much.
+
+I also have an i7-2600 non K quadcore, and multicore cvars in script are set to a value of 4. you should try setting these settings to your cpu # of cores.
 
 ;;;;
 
