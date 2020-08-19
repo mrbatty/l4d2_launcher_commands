@@ -4,6 +4,7 @@ Launcher Commands I use for Left 4 Dead 2, for a mix between better performance 
 Basically turning an old, flawed and ugly -but great- game, into a glorious version it should have been from the start, and actually playable!
 
 ....
+
 After many years of playing and loving this game, I have found a way to bypass the limit of launcher cvars one can use.
 Also, no more messing around in launcher options through Steam only to have those deleted when it decides it's time to update.
 
@@ -13,20 +14,22 @@ I have spent WAY TOO MANY HOURS experimenting with launcher cvars, enjoy.
 
 INSTRUCTIONS:
 
-Install script.cfg and script2.cfg into left4dead2/cfg folder
+1. Install script.cfg and script2.cfg into left4dead2/cfg folder
 
-Use my .bat to start the game. You might have to edit it to point to your left4dead2.exe location.
+2. Use my .bat to start the game. You might have to edit it to point to your left4dead2.exe location.
+
+That's it!
 
 You will need Rinput https://fearless-assassins.com/files/file/1656-rinput/ installed in C:\ , or edit my .bat and play using subpar mouse processing. (in-game raw mouse input is garbage)
 
 If mouse doesn't register,  disable RAWINPUT in game settings.
 
-Editing and Applying video settings might reset the fov and you'll need to type in console from main menu "exec script.cfg", or restart the game from my bat.
+WARNING. Editing and Applying video settings might reset the fov and you'll need to type in console from main menu "exec script.cfg", or restart the game from my bat.
 
-DO NOT run .bat without having started Steam, as Rinput might not register the game widow.
-
+WARNING. DO NOT run .bat without having started Steam, as Rinput might not register the game widow.
 
 ....
+
 DISCLAIMERS:
 
 1. These are my preferences, I am not willing to create a high fps config, where everything looks like cardboard and you get an insane advantage through a mediocre gaming experience. I am a different kind of sicko, who likes to actually look at pretty visuals in his spare time.
