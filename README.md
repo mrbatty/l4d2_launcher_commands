@@ -49,7 +49,7 @@ I also have left some cvars at default in the script because they might have bee
 
 My main FOV is tuned for 140 degrees of view (approximately human field of view) , which in other aspect ratios my values might be too much.
 
-I also have an i7-2600 non K quadcore, and multicore cvars in script are set to a value of 4. you should try setting these settings to your cpu # of cores.
+I also have an i7-2600 non K quadcore, and multicore cvars in script are set to a value of 4. you should try setting these to your cpu # of cores.
 
 ;;;;
 
