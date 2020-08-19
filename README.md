@@ -37,7 +37,7 @@ WARNING. DO NOT run .bat without having started Steam, as Rinput might not regis
 
 DISCLAIMERS:
 
-1. These are my preferences, I am not willing to create a high fps config, where everything looks like cardboard and you get an insane advantage through a mediocre gaming experience. I am a different kind of sicko, who likes to actually look at pretty visuals in his spare time.
+1. These are my preferences, I am not willing to create a high fps config, where everything looks like cardboard and you get an insane advantage through a mediocre gaming experience. I am a different kind of sicko, who enjoys pretty visuals over meaningless l33t skeets.
 
 If you want to make your own config, you can look up Valve's cvars in order to familiarize yourself with the environment and experiment yourself: https://developer.valvesoftware.com/wiki/List_of_L4D2_Cvars
 
