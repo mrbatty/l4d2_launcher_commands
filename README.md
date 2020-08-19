@@ -15,7 +15,7 @@ Use my .bat to start the game.
 
   You will need Rinput https://fearless-assassins.com/files/file/1656-rinput/ installed in C:\ , or edit my .bat and play using subpar mouse processing. (in-game raw mouse input is garbage)
 If mouse doesn't register,  disable RAWINPUT in game settings.
-Applying with video settings might reset the fov and you'll need to type in console from main menu "exec script.cfg", or restart the game from my bat.
+Editing and Applying video settings might reset the fov and you'll need to type in console from main menu "exec script.cfg", or restart the game from my bat.
 
 DO NOT run .bat without having started Steam, as Rinput might not register the game widow.
 
