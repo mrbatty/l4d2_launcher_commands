@@ -47,9 +47,9 @@ I also have left some cvars at default in the script because they might have bee
 
 3. My setup is inevitably different from yours. I use an Alienware ultrawide monitor at 43:18 aspect ratio, which I've calculated my FOV settings for, using this online calculator: https://casualhacks.net/Source-FOV-calculator.html
 
-My main FOV is tuned for 140 degrees of view (approximately human field of view) , which in other aspect ratios might be too much.
+My main FOV is tuned for 140 degrees of view (approximately human field of view) , which in other aspect ratios might be too much. Main FOV is the very first setting in script.cfg, ctrl+f the rest.
 
-I also have an i7-2600 non K quadcore, and multicore cvars in script are set to a value of 4. you should try setting these to your cpu # of cores.
+I also have an i7-2600 non K quadcore, and multicore cvars in script are set to a value of 4. you should try setting these to your # of CPU cores.
 
 ;;;;
 
