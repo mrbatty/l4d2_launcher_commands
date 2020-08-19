@@ -30,4 +30,4 @@ Also, my setup is inevitably different from yours. I use an Alienware ultrawide 
 
 My main FOV is tuned for 140 degrees of view (approximately human field of view) , which in other aspect ratios my values might be too much.
 
-Have fun, it is a great game which lives on after many many years, with a thriving highly toxic highly skilled community.
+Have fun, it is a great game which lives on after many many years, with a thriving highly toxic, highly skilled community.
