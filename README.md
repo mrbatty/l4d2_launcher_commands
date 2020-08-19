@@ -1,5 +1,6 @@
 # l4d2_launcher_commands
 Launcher Commands I use for Left 4 Dead 2, for a mix between better performance and better image quality (IQ) than the original.
+Basically turning an old, flawed and ugly -but great- game, into a glorious version it should have been from the start, and actually playable!
 
 ....
 After many years of playing and loving this game, I have found a way to bypass the limit of launcher cvars one can use.
