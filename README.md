@@ -11,9 +11,9 @@ INSTRUCTIONS:
 
 Install script.cfg and script2.cfg into left4dead2/cfg folder
 
-Use my .bat to start the game.
+Use my .bat to start the game. You might have to edit it to point to your left4dead2.exe location.
 
-  You will need Rinput https://fearless-assassins.com/files/file/1656-rinput/ installed in C:\ , or edit my .bat and play using subpar mouse processing. (in-game raw mouse input is garbage)
+You will need Rinput https://fearless-assassins.com/files/file/1656-rinput/ installed in C:\ , or edit my .bat and play using subpar mouse processing. (in-game raw mouse input is garbage)
 If mouse doesn't register,  disable RAWINPUT in game settings.
 Editing and Applying video settings might reset the fov and you'll need to type in console from main menu "exec script.cfg", or restart the game from my bat.
 
