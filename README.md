@@ -15,8 +15,11 @@ I have spent WAY TOO MANY HOURS experimenting with launcher cvars, enjoy.
 INSTRUCTIONS:
 
 1. Install script.cfg and script2.cfg into left4dead2/cfg folder
+2. Add this line to your autoexec.cfg: 
 
-2. Use my .bat to start the game. You might have to edit it to point to your left4dead2.exe location.
+alias fov "exec script2"
+
+3. Use my .bat to start the game. Edit it to suit your needs.
 
 That's it!
 
